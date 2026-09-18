@@ -9,4 +9,5 @@ run with admin
 
 
 
-<sub><sub><sub>this will probably crash your computer you’re running this by choice.</sub></sub></sub>
+<sub><sub><sub></sub></sub></sub>
+<sub><small>this will probably crash your computer you’re running this by choice.</small></sub>
