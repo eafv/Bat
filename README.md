@@ -8,4 +8,5 @@ run with admin
 
 
 
-<sub>this will probably crash your computer you’re running this by choice</sub>
+
+<sub><sub><sub>this will probably crash your computer you’re running this by choice.</sub></sub></sub>
