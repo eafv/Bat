@@ -7,6 +7,6 @@ run with admin
 
 
 
-<sub><sub><sup><sub>this will probably crash your computer you’re running this by choice</sup></sub><sub><sub>
+<sup><sub><sub><sup><sub>this will probably crash your computer you’re running this by choice</sup></sub><sub><sub><sup>
         
 
