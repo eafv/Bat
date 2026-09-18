@@ -7,27 +7,7 @@ run with admin
               zBBBBBBBBBB
                 vvBBBBB""BB.
                  `BBBBBwwBBoo              .A,
-A,                BBBBBBBBBBB,           dBBB!
-BBo,.              'BBBBB  VBBo       dBBBBBP`
-VBBBBBo,            BBBBB.    '   dBBBBBBBBP`
-'VBBBBBBBBBBBo,.   ,BBBBBBBR.  dBBBBBBBBBP`
- IBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBP`
-  'VBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBP`
-    'VBBBBBBBBBBBBBBBBBBBBBBBBBBBBBP`
-      'VBBBBBBBBBBBBBBBBBBBBBBBBBBP`
-         `'BBBBBBBBBBBBBBBBBBBBBP`
-              `'BBBBBBBBBBBBP'`
-                 `BBBBBBBBP`
-                  >BBBB0P`
-             .oIBBBBBBP`
-          .oPPBBBBP'`
-       .zoBBBBBBBB`
-            `ZBP`
-            '`
-------------------------------------------------
-
-
-
+html <marquee scrollamount="5" loop="infinite"> <h1>h</h1> </marquee> 
 <sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub>this will probably crash your computer you’re running this by choice</sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub>
 
         
