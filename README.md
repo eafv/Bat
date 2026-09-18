@@ -1,6 +1,6 @@
 you’re testing this since i made this on ios
 run with admin
-
+read all this
 
 <marquee scrollamount="500" loop="infinite"> <h1>hhhhhhhhhhhhhhhhqqhhqhqhqhqhqhqhqhqhqhqhhqhqhqhhqhqhqoooooooooooh</h1> </marquee> 
 <marquee scrollamount="500" loop="infinite"> <h1>hhhhhhhhhhhhhhhhqqhhqhqhqhqhqhqhqhqhqhqhhqhqhqhhqhqhqoooooooooooh</h1> </marquee> 
