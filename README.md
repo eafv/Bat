@@ -1,1 +1,2 @@
 you’re testing this since i made this on ios
+run with admin
